@@ -2,7 +2,7 @@
 
 #Overview
 
-**lookml-for-salesforce** is a set of LookML files for use with the [Simple Data Pipe](https://developer.ibm.com/clouddataservices/simple-data-pipe/) example app that deploys to the [IBM Bluemix](http://bluemix.net) platform service. The Simple Data Pipe easily moves data from different online sources into IBM’s JSON database service, [cloudant](https://cloudant.com/). With data landed in Cloudant in its native structure, users can then consolidate data in their own warehouses or analytics tools. In this case, users will want to use Cloudant's native integration with [dashDB](http://dashdb.com), IBM's cloud data warehouse.
+**lookml-for-salesforce** is a set of LookML files for use with the [Simple Data Pipe](https://developer.ibm.com/clouddataservices/simple-data-pipe/) example app that deploys to the [IBM Bluemix](http://bluemix.net) platform service. The Simple Data Pipe easily moves data from different online sources into IBM’s JSON database service, [Cloudant](https://cloudant.com/). With data landed in Cloudant in its native structure, users can then consolidate data in their own warehouses or analytics tools. In this case, users will want to use Cloudant's native integration with [dashDB](http://dashdb.com), IBM's cloud data warehouse.
 
 LookML is a data modeling language for the [Looker](http://www.looker.com/) business intelligence platform. With LookML, BI analysts can describe their data and apply business rules in a higher-level language that Looker converts down to SQL. It hooks right into your warehouse and is great at powering Web dashboards and data exploration.
 
