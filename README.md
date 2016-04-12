@@ -18,7 +18,7 @@ Below, you’ll find a set of files that deals with [Salesforce.com](http://www.
  
 ##Architecture diagram
 
-![Architecture of Simple Data Pipe example app](http://developer.ibm.com/clouddataservices/wp-content/uploads/sites/47/2015/09/pipesDiagram_looker-for-pipes.png)
+![Architecture of Simple Data Pipe example app](https://i0.wp.com/developer.ibm.com/clouddataservices/wp-content/uploads/sites/47/2016/02/simpleDataPipe_newArchitecture.png)
 
 ##How it works
 
