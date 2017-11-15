@@ -1,6 +1,6 @@
-#lookml-for-salesforce-and-dashdb
+# Overview
 
-#Overview
+:no_entry_sign: This project is no longer maintained.
 
 **lookml-for-salesforce-and-dashdb** is an updated set of LookML files for use with the new [Simple Data Pipe](https://developer.ibm.com/clouddataservices/simple-data-pipe/) example app that deploys to the [IBM Bluemix](http://bluemix.net) platform service. The new Simple Data Pipe moves data from different online sources into IBM’s JSON database service, [Cloudant](https://cloudant.com/). With data landed in Cloudant in its native structure, users can then consolidate data in their own warehouses or analytics tools. (In this case, users will want to use Cloudant's native integration with [dashDB](http://dashdb.com), IBM's cloud data warehouse, since the LookML is specific to dashDB.)
 
